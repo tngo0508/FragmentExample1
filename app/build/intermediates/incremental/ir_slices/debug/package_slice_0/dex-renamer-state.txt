@@ -1,4 +1,4 @@
-#Thu Nov 22 16:04:38 PST 2018
+#Fri Nov 23 13:54:43 PST 2018
 base.0=/home/thomas/AndroidStudioProjects/android-advanced-starter-apps/FragmentExample1/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex

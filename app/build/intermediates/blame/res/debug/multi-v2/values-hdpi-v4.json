@@ -4,7 +4,7 @@
             "outputFile": "/home/thomas/AndroidStudioProjects/android-advanced-starter-apps/FragmentExample1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
             "map": [
                 {
-                    "source": "/home/thomas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/9cc296bdac9c7a955ed6e4a5a19cac9d/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "source": "/home/thomas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/57d7c6a66c621a613f6473612c28c89e/res/values-hdpi-v4/values-hdpi-v4.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

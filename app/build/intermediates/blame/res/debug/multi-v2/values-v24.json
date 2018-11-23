@@ -4,7 +4,7 @@
             "outputFile": "/home/thomas/AndroidStudioProjects/android-advanced-starter-apps/FragmentExample1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "/home/thomas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/9cc296bdac9c7a955ed6e4a5a19cac9d/res/values-v24/values-v24.xml",
+                    "source": "/home/thomas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/57d7c6a66c621a613f6473612c28c89e/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7",
                         "startColumns": "4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/home/thomas/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.1.aar/3f5dfcf36b3ece6e14eca7165ea77de8/res/values-v24/values-v24.xml",
+                    "source": "/home/thomas/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.1.aar/b858b916db6f56350902e85742eca629/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
