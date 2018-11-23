@@ -6,46 +6,46 @@
     density="420dpi"
     format="10"
     plugin-version="3.2.1"
-    timestamp="1543010081838"
+    timestamp="1543010763407"
     token="-7466906681353782431"
     verifier="CLASS_ADDED" >
 
     <task
         name="javac"
-        duration="259" />
+        duration="257" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="14" />
+        duration="219" />
     <task
         name="verifier"
-        duration="6" />
+        duration="8" />
 
     <artifact
         location="/home/thomas/AndroidStudioProjects/android-advanced-starter-apps/FragmentExample1/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
         type="SPLIT" />
     <artifact
-        location="/home/thomas/AndroidStudioProjects/android-advanced-starter-apps/FragmentExample1/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+        location="/home/thomas/AndroidStudioProjects/android-advanced-starter-apps/FragmentExample1/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
         type="SPLIT" />
     <artifact
         location="/home/thomas/AndroidStudioProjects/android-advanced-starter-apps/FragmentExample1/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
         type="SPLIT" />
     <artifact
-        location="/home/thomas/AndroidStudioProjects/android-advanced-starter-apps/FragmentExample1/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/thomas/AndroidStudioProjects/android-advanced-starter-apps/FragmentExample1/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+        location="/home/thomas/AndroidStudioProjects/android-advanced-starter-apps/FragmentExample1/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
         type="SPLIT" />
     <artifact
         location="/home/thomas/AndroidStudioProjects/android-advanced-starter-apps/FragmentExample1/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
         type="SPLIT" />
     <artifact
-        location="/home/thomas/AndroidStudioProjects/android-advanced-starter-apps/FragmentExample1/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+        location="/home/thomas/AndroidStudioProjects/android-advanced-starter-apps/FragmentExample1/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
         type="SPLIT" />
     <artifact
-        location="/home/thomas/AndroidStudioProjects/android-advanced-starter-apps/FragmentExample1/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+        location="/home/thomas/AndroidStudioProjects/android-advanced-starter-apps/FragmentExample1/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/thomas/AndroidStudioProjects/android-advanced-starter-apps/FragmentExample1/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
         type="SPLIT" />
 
     <build
@@ -94,31 +94,31 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1543010081838"
+        timestamp="1543010763407"
         verifier="CLASS_ADDED" >
         <artifact
             location="/home/thomas/AndroidStudioProjects/android-advanced-starter-apps/FragmentExample1/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
             type="SPLIT" />
         <artifact
-            location="/home/thomas/AndroidStudioProjects/android-advanced-starter-apps/FragmentExample1/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            location="/home/thomas/AndroidStudioProjects/android-advanced-starter-apps/FragmentExample1/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
             type="SPLIT" />
         <artifact
             location="/home/thomas/AndroidStudioProjects/android-advanced-starter-apps/FragmentExample1/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="/home/thomas/AndroidStudioProjects/android-advanced-starter-apps/FragmentExample1/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/thomas/AndroidStudioProjects/android-advanced-starter-apps/FragmentExample1/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            location="/home/thomas/AndroidStudioProjects/android-advanced-starter-apps/FragmentExample1/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
             type="SPLIT" />
         <artifact
             location="/home/thomas/AndroidStudioProjects/android-advanced-starter-apps/FragmentExample1/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="/home/thomas/AndroidStudioProjects/android-advanced-starter-apps/FragmentExample1/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            location="/home/thomas/AndroidStudioProjects/android-advanced-starter-apps/FragmentExample1/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="/home/thomas/AndroidStudioProjects/android-advanced-starter-apps/FragmentExample1/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            location="/home/thomas/AndroidStudioProjects/android-advanced-starter-apps/FragmentExample1/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/thomas/AndroidStudioProjects/android-advanced-starter-apps/FragmentExample1/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
             type="SPLIT" />
     </build>
 

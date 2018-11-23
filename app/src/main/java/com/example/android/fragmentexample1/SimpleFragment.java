@@ -2,12 +2,15 @@ package com.example.android.fragmentexample1;
 
 
 import android.app.Fragment;
+import android.os.Build;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.RadioGroup;
+import android.widget.RatingBar;
 import android.widget.TextView;
+import android.widget.Toast;
 
 
 /**
@@ -31,6 +34,8 @@ public class SimpleFragment extends Fragment {
         final View rootView =
                 inflater.inflate(R.layout.fragment_simple, container, false);
         final RadioGroup radioGroup = rootView.findViewById(R.id.radio_group);
+        final RatingBar ratingBar =
+                rootView.findViewById(R.id.ratingBar);
 
         // Set the radioGroup onCheckedChanged listener.
         radioGroup.setOnCheckedChangeListener(new RadioGroup.OnCheckedChangeListener() {
@@ -53,6 +58,23 @@ public class SimpleFragment extends Fragment {
                 }
             }
         });
+
+        // Set the rating bar onCheckedChanged listener.
+        ratingBar.setOnRatingBarChangeListener
+                (new RatingBar.OnRatingBarChangeListener() {
+                    @Override
+                    public void onRatingChanged(RatingBar ratingBar,
+                                                float rating, boolean fromUser) {
+                        // Get rating and show Toast with rating.
+                        String myRating = (getString(R.string.my_rating) +
+                                String.valueOf(ratingBar.getRating()));
+                        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) {
+                            Toast.makeText(getContext(), myRating,
+                                    Toast.LENGTH_SHORT).show();
+                        }
+                    }
+                });
+
 
         // Return the View for the fragment's UI.
         return rootView;
